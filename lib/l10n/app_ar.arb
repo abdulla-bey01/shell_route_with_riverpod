@@ -1,0 +1,9 @@
+{
+  "@@locale": "ar",
+  "tasks": "مهام",
+  "projects": "المشاريع",
+  "teams": "فرق",
+  "titleNotFound": "العنوان غير موجود",
+  "dateNotFound": "التاريخ غير موجود",
+  "descriptionNotFound": "الوصف غير موجود"
+}

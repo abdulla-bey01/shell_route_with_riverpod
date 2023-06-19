@@ -1,0 +1,9 @@
+{
+  "@@locale": "en",
+  "tasks": "Tasks",
+  "projects": "Projects",
+  "teams": "Teams",
+  "titleNotFound": "Title not found",
+  "dateNotFound": "Date not found",
+  "descriptionNotFound": "Description not found"
+}
